@@ -101,7 +101,6 @@
 
 ### Task Automation
 
-- [AnveVoice](https://anvevoice.app) - AI voice agent for websites that automates customer conversations, navigates pages, fills forms, and books appointments in 50+ languages.
 - [AutoIt](https://www.autoitscript.com/) - Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 - [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
@@ -110,6 +109,7 @@
 - [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](https://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+- [AnveVoice](https://anvevoice.app) - AI voice agent for websites that automates customer conversations, navigates pages, fills forms, and books appointments in 50+ languages.
 
 ### Password Manager
 
